@@ -1,0 +1,7 @@
+D:\VS\Projects\ddos\ddosapp\ddosapp\bin\Debug\ddosapp.exe.config
+D:\VS\Projects\ddos\ddosapp\ddosapp\bin\Debug\ddosapp.exe
+D:\VS\Projects\ddos\ddosapp\ddosapp\bin\Debug\ddosapp.pdb
+D:\VS\Projects\ddos\ddosapp\ddosapp\obj\Debug\ddosapp.csproj.AssemblyReference.cache
+D:\VS\Projects\ddos\ddosapp\ddosapp\obj\Debug\ddosapp.csproj.CoreCompileInputs.cache
+D:\VS\Projects\ddos\ddosapp\ddosapp\obj\Debug\ddosapp.exe
+D:\VS\Projects\ddos\ddosapp\ddosapp\obj\Debug\ddosapp.pdb
