@@ -8,10 +8,10 @@ namespace ddosapp
 {
     internal class Program
     {
-        [DllImport("kernel32.dll")]
+        [DllImport("kernel32.dll")] // импорт библеотеки
         static extern IntPtr GetConsoleWindow();
 
-        [DllImport("user32.dll")]
+        [DllImport("user32.dll")] // импорт второй библеотеки
         static extern bool ShowWindow(IntPtr hWnd, int nCmdShow);
 
         const int SW_HIDE = 0;
@@ -20,7 +20,7 @@ namespace ddosapp
         static void Main(string[] args)
         {
             var handle = GetConsoleWindow();
-            ShowWindow(handle, SW_HIDE);
+            ShowWindow(handle, SW_HIDE); 
             ShowWindow(handle, SW_HIDE);
             string target = "127.0.0.1"; // хост цель
             int port = 10134; // цель порт
